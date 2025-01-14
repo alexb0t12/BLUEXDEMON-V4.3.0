@@ -3,7 +3,7 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2347057344983"
+global.pairingNumber = "242056881818"
 
 
 
@@ -16,10 +16,10 @@ global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
 global.egg = "15"
 global.loc = "1"
 global.anticall = false
-global.autoReadChat = false
+global.autoReadChat = true
 global.alwaysonline = true
 global.autoswview = false
-global.public = true
+global.public = false 
 global.autoreact = false
 global.antidelete = false
 global.autotyping = false
@@ -54,7 +54,7 @@ global.fotoRandom = [
 "https://wallpapercave.com/wp/wp12456894.jpg"]
 global.baileysMd = true
 global.multi = false
-global.prefa = "!"
+global.prefa = "*"
 global.Console = false
 global.autorespon = false
 global.copyright = `𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎`
